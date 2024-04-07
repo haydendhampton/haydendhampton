@@ -5,7 +5,7 @@
 	    <tr style="border: 0px;">
     	    <td width="33%">
 	    	<img src="https://github.com/haydendhampton/haydendhampton/blob/main/hannoverre_logo.jpg" width="175"/>
-	    </td width="30%">
+	    </td width="25%">
             <td style="padding:0px">
             	<img src="https://github.com/haydendhampton/haydendhampton/blob/main/infotech_logo.png" width="200"/>
 	    </td width="25%">
