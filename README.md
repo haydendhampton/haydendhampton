@@ -6,7 +6,7 @@
 
 
 <p  align="center" width="100%">
-<img width="20%" src="https://github.com/haydendhampton/haydendhampton/blob/main/hannoverre_logo.jpg" style="display:block;float:left;margin-left:auto;margin-right:auto">
+<img width="20%" src="https://github.com/haydendhampton/haydendhampton/blob/main/hannoverre_logo.jpg" style="display:inline-block;float:left;margin-left:auto;margin-right:auto">
 
 <img width="22.5%" src="https://github.com/haydendhampton/haydendhampton/blob/main/infotech_logo.png" /> 
 <img width="12.5%" src="https://github.com/haydendhampton/haydendhampton/blob/main/ucf_logo.png" />
