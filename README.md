@@ -1,6 +1,6 @@
 ### Welcome!
 
-<p align="center" width="100%">
+<p align="center">
     <table style="border:0px solid white;">
 	    <tr style="border: 0px;">
     	    <td>
