@@ -4,10 +4,8 @@
 
 
 <p center="left" width="100%">
-<br> <br> <img width="20%" src="https://github.com/haydendhampton/haydendhampton/blob/main/hannoverre_logo.jpg" height="150"/>
-&emsp; <br clear="left"/>
+<img width="20%" src="https://github.com/haydendhampton/haydendhampton/blob/main/hannoverre_logo.jpg" height="150"/>
 <img width="22.5%" src="https://github.com/haydendhampton/haydendhampton/blob/main/infotech_logo.png" /> 
-&emsp;
 <img width="12.5%" src="https://github.com/haydendhampton/haydendhampton/blob/main/ucf_logo.png" />
 </p>
 
@@ -16,6 +14,7 @@ I'm [Hayden Hampton](https://haydenhampton.com/), a recent PhD graduate in Big D
 For more updates, please visit my [personal website](https://haydenhampton.com/)
 
 <!--
+&emsp;
 
 |  <br> <br> <img width="20%" src="https://github.com/haydendhampton/haydendhampton/blob/main/hannoverre_logo.jpg"> | <img width="22.5%" src="https://github.com/haydendhampton/haydendhampton/blob/main/infotech_logo.png"> | <img width="12.5%" src="https://github.com/haydendhampton/haydendhampton/blob/main/ucf_logo.png"> |
 
