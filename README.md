@@ -1,13 +1,7 @@
 ### Welcome!
 
 
-<style>
-  table td {
-    border: none !important;
-  }
-</style>
-
-<div>
+<p>
     <table>
 	    <tr>
     	    <td style="padding:10px">
@@ -21,8 +15,8 @@
             </td>
         </tr>
     </table>
-</div>
 
+</p>
 
 
 <p  align="center" width="100%">
@@ -38,6 +32,7 @@ For more updates, please visit my [personal website](https://haydenhampton.com/)
 
 <!--
 
+id="image-table"
 
 <img width="20%" src="https://github.com/haydendhampton/haydendhampton/blob/main/hannoverre_logo.jpg" height="150"/>
 
