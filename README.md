@@ -2,14 +2,14 @@
 
 <div align="center">
     <table width="100%">
-	    <tr style="border: 0px;">
+	    <tr>
     	    <td width="35%">
 	    	<img src="https://github.com/haydendhampton/haydendhampton/blob/main/hannoverre_logo.jpg" width="175"/>
-	    </td width="25%">
-            <td style="padding:0px">
+	    </td>
+            <td  width="25%"; style="padding:0px">
             	<img src="https://github.com/haydendhampton/haydendhampton/blob/main/infotech_logo.png" width="200"/>
-	    </td width="25%">
-            <td style="padding:20px">
+	    </td>
+            <td  width="25%"; style="padding:0px">
             	<img src="https://github.com/haydendhampton/haydendhampton/blob/main/ucf_logo.png" width="125"/>
             </td>
         </tr>
