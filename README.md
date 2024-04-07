@@ -3,7 +3,7 @@
 <p float="center">
 <img src="https://github.com/haydendhampton/haydendhampton/blob/main/ucf_logo.png" width="80"/>
 &emsp;
-<img src="https://github.com/haydendhampton/haydendhampton/blob/main/infotech_logo.png" width="80"/> 
+<img src="https://github.com/haydendhampton/haydendhampton/blob/main/infotech_logo.png" width="150"/> 
 &emsp;
 <img src="https://github.com/haydendhampton/haydendhampton/blob/main/hannover_logo.jpg" width="80"/>
 </p>
