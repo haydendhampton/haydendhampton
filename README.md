@@ -3,8 +3,8 @@
 
 
 <div>
-<table class="borderless">
-    <tr style="borderless: 0px;">
+<table class="borderless"; width="100%>
+    <tr style="border: 0px;">
         <td width="33%" style="border:0px; width:33.33%">
             <img src="https://github.com/haydendhampton/haydendhampton/blob/main/hannoverre_logo.jpg" width="150"/>
         </td>
