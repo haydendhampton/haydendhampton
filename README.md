@@ -3,13 +3,13 @@
 <div align="center">
     <table width="100%">
 	    <tr>
-    	    <td width="25%">
+    	    <td width="25%"; style="padding:0px">
 	    	<img src="https://github.com/haydendhampton/haydendhampton/blob/main/hannoverre_logo.jpg" width="175"/>
 	    </td>
             <td  width="25%"; style="padding:0px">
             	<img src="https://github.com/haydendhampton/haydendhampton/blob/main/infotech_logo.png" width="200"/>
 	    </td>
-            <td  width="25%"; style="padding:20px">
+            <td  width="25%"; style="padding:0px">
             	<img src="https://github.com/haydendhampton/haydendhampton/blob/main/ucf_logo.png" width="125"/>
             </td>
         </tr>
