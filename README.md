@@ -3,9 +3,8 @@
 <p float="left">
   <img src="https://github.com/haydendhampton/haydendhampton/blob/main/ucf_logo.png" width="100">
   <img src="https://github.com/haydendhampton/haydendhampton/blob/main/hannover_logo.jpg" width="175">
-  <img src="https://github.com/haydendhampton/haydendhampton/blob/main/hannover_re_logo.jpg" width="175">
-  <img src="https://github.com/haydendhampton/haydendhampton/blob/main/21403.png" width="175">
-  <img src="https://github.com/haydendhampton/haydendhampton/blob/main/12569.png" width="175">
+  <img src="https://github.com/haydendhampton/haydendhampton/blob/main/21403.png" width="200">
+  <img src="https://github.com/haydendhampton/haydendhampton/blob/main/12569.png" width="200">
   <img src="https://github.com/haydendhampton/haydendhampton/blob/main/infotech_logo.png" width="200">
 </p>
 
