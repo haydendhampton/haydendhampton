@@ -3,7 +3,7 @@
 
 <div>
     <table style="style="border:0px solid white">
-	    <tr>
+	    <tr style="border: 0px;">
     	    <td style="padding:10px">
         	    <img src="https://github.com/haydendhampton/haydendhampton/blob/main/hannoverre_logo.jpg" width="150"/>
 	    </td>
