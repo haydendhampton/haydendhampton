@@ -1,5 +1,10 @@
 ### Welcome!
 
+|                                               |                                               |                                               |
+|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
+| <img width="100%" src="(https://github.com/haydendhampton/haydendhampton/blob/main/hannoverre_logo.jpg)"> | <img width="100%" src="(https://github.com/haydendhampton/haydendhampton/blob/main/infotech_logo)"> | <img width="100%" src="https://github.com/haydendhampton/haydendhampton/blob/main/ucf_logo.png"> |
+
+
 <p float="left" width="100%">
 <img width="20%" src="https://github.com/haydendhampton/haydendhampton/blob/main/hannoverre_logo.jpg" height="150"/>
 &emsp;
