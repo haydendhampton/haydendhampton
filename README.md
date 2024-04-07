@@ -6,7 +6,7 @@
     	    <td style="padding:10px;width="25%"; ">
 	    	<img src="https://github.com/haydendhampton/haydendhampton/blob/main/hannoverre_logo.jpg" width="175"/>
 	    </td>
-            <td  style="padding:0px;width="25%";">
+            <td  style="padding:10px;width="25%";">
             	<img src="https://github.com/haydendhampton/haydendhampton/blob/main/infotech_logo.png" width="200"/>
 	    </td>
             <td style="padding:10px;width="30%";">
