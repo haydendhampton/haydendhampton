@@ -1,6 +1,6 @@
 ### Welcome!
 
-<div style="display:flex">
+<p  align="center">
      <div style="flex:1;padding-right:10px;">
           <img src="https://github.com/haydendhampton/haydendhampton/blob/main/hannoverre_logo.jpg" width="150"/>
      </div>
@@ -10,7 +10,7 @@
      <div style="flex:1;padding-left:10px;">
           <img src="https://github.com/haydendhampton/haydendhampton/blob/main/ucf_logo.png" width="100"/>
      </div>
-</div>
+<p>
 
 
 <div>
