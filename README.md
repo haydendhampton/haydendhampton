@@ -9,7 +9,7 @@
             <td  width="25%"; style="padding:0px">
             	<img src="https://github.com/haydendhampton/haydendhampton/blob/main/infotech_logo.png" width="200"/>
 	    </td>
-            <td  width="25%"; style="padding:0px">
+            <td  width="25%"; style="padding:20px">
             	<img src="https://github.com/haydendhampton/haydendhampton/blob/main/ucf_logo.png" width="125"/>
             </td>
         </tr>
