@@ -1,5 +1,18 @@
 ### Welcome!
 
+<div style="display:flex">
+     <div style="flex:1;padding-right:10px;">
+          <img src="img/image1.png" width="200"/>
+     </div>
+     <div style="flex:1;padding-left:10px;">
+          <img src="img/image2.png" width="300"/>
+     </div>
+     <div style="flex:1;padding-left:10px;">
+          <img src="img/image3.png" width="400"/>
+     </div>
+</div>
+
+
 <div>
 <table class="images" width="100%"  style="border:0px solid white;width:100%;">
     <tr style="border: 0px;">
