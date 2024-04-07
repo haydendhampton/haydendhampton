@@ -1,6 +1,6 @@
 ### Welcome!
 
-<p float="center">
+<p align="center" width="100%">
     <table style="border:0px solid white;">
 	    <tr style="border: 0px;">
     	    <td>
@@ -17,6 +17,23 @@
 </p>
 
 
+
+I'm [Hayden Hampton](https://haydenhampton.com/), a recent PhD graduate in Big Data Analytics from the University of Central Florida. My research focused on advancing anomaly detection, specifically integrating deep learning with one-class classification techniques. Currently, I'm transitioning my research focus by leveraging this expertise to practical applications in industry. For a comprehensive overview of my work, please refer to my [CV](https://haydenhampton.com/wp-content/uploads/2024/01/Hayden_Hampton_CV.pdf).
+
+For more updates, please visit my [personal website](https://haydenhampton.com/)
+
+
+
+
+
+
+
+
+<!--
+
+
+
+
 <p  align="center" width="100%">
 <img width="20%" src="https://github.com/haydendhampton/haydendhampton/blob/main/hannoverre_logo.jpg" style="display:inline-block;float:left;margin-left:auto;margin-right:auto">
 
@@ -24,11 +41,8 @@
 <img width="12.5%" src="https://github.com/haydendhampton/haydendhampton/blob/main/ucf_logo.png" />
 </p>
 
-I'm [Hayden Hampton](https://haydenhampton.com/), a recent PhD graduate in Big Data Analytics from the University of Central Florida. My research focused on advancing anomaly detection, specifically integrating deep learning with one-class classification techniques. Currently, I'm transitioning my research focus by leveraging this expertise to practical applications in industry. For a comprehensive overview of my work, please refer to my [CV](https://haydenhampton.com/wp-content/uploads/2024/01/Hayden_Hampton_CV.pdf).
 
-For more updates, please visit my [personal website](https://haydenhampton.com/)
 
-<!--
 
 id="image-table"
 
