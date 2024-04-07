@@ -2,13 +2,13 @@
 
 <div style="display:flex">
      <div style="flex:1;padding-right:10px;">
-          <img src="img/image1.png" width="200"/>
+          <img src="https://github.com/haydendhampton/haydendhampton/blob/main/hannoverre_logo.jpg" width="150"/>
      </div>
      <div style="flex:1;padding-left:10px;">
-          <img src="img/image2.png" width="300"/>
+          <img src="https://github.com/haydendhampton/haydendhampton/blob/main/infotech_logo.png" width="200"/>
      </div>
      <div style="flex:1;padding-left:10px;">
-          <img src="img/image3.png" width="400"/>
+          <img src="https://github.com/haydendhampton/haydendhampton/blob/main/ucf_logo.png" width="100"/>
      </div>
 </div>
 
