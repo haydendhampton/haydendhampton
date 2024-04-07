@@ -10,7 +10,7 @@
             	<img src="https://github.com/haydendhampton/haydendhampton/blob/main/infotech_logo.png" width="200"/>
 	    </td>
             <td style="padding:0px">
-            	<img src="https://github.com/haydendhampton/haydendhampton/blob/main/ucf_logo.png" width="150"/>
+            	<img src="https://github.com/haydendhampton/haydendhampton/blob/main/ucf_logo.png" width="125"/>
             </td>
         </tr>
     </table>
