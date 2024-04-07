@@ -1,7 +1,7 @@
 ### Welcome!
 
 <p float="left">
-  <img src="https://github.com/haydendhampton/haydendhampton/blob/main/ucf_logo.png" width="75" height="75">
+  <img src="https://github.com/haydendhampton/haydendhampton/blob/main/ucf_logo.png" width="75" >
   <img src="https://github.com/haydendhampton/haydendhampton/blob/main/hannover_logo.jpg" width="175">
   <img src="https://github.com/haydendhampton/haydendhampton/blob/main/infotech_logo.png" width="175" height="175">
 </p>
