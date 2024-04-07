@@ -1,14 +1,14 @@
 ### Welcome!
 
 <div align="center">
-    <table>
+    <table width="100%">
 	    <tr style="border: 0px;">
-    	    <td>
+    	    <td width="33%">
 	    	<img src="https://github.com/haydendhampton/haydendhampton/blob/main/hannoverre_logo.jpg" width="175"/>
-	    </td>
+	    </td width="33%">
             <td style="padding:0px">
             	<img src="https://github.com/haydendhampton/haydendhampton/blob/main/infotech_logo.png" width="200"/>
-	    </td>
+	    </td width="33%">
             <td style="padding:20px">
             	<img src="https://github.com/haydendhampton/haydendhampton/blob/main/ucf_logo.png" width="125"/>
             </td>
