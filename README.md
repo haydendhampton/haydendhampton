@@ -4,10 +4,11 @@
 
 
 <div id="image-table">
+	
 <style>
-td, th {
-   border: none!important;
-}
+  table td {
+    border: none !important;
+  }
 </style>
 	
     <table>
