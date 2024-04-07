@@ -1,4 +1,8 @@
-### Hi there 👋
+### Welcome!
+
+I'm [Hayden Hampton]([https://pages.github.com/](https://haydenhampton.com/)), a recent PhD graduate in Big Data Analytics from the University of Central Florida. My research focused on advancing anomaly detection, specifically integrating deep learning with one-class classification techniques. Currently, I'm transitioning my research focus by leveraging this expertise to practical applications in industry. For a comprehensive overview of my work, please refer to my [CV]([https://pages.github.com/]([https://haydenhampton.com/](https://haydenhampton.com/wp-content/uploads/2024/01/Hayden_Hampton_CV.pdf))).
+
+For more updates, please visit my [personal website]([https://pages.github.com/](https://haydenhampton.com/))
 
 <!--
 **haydendhampton/haydendhampton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
