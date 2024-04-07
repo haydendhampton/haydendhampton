@@ -2,11 +2,11 @@
 
 
 <div>
-    <table>
-	    <tr style="style="border:0px solid white">
+    <table style="style="border:0px solid white">
+	    <tr>
     	    <td style="padding:10px">
         	    <img src="https://github.com/haydendhampton/haydendhampton/blob/main/hannoverre_logo.jpg" width="150"/>
-	    </td style="style="border:0px solid white">
+	    </td>
             <td style="padding:10px">
             	<img src="https://github.com/haydendhampton/haydendhampton/blob/main/infotech_logo.png" width="200"/>
 	    </td>
