@@ -1,5 +1,5 @@
 ### Welcome!
-
+<p  align="center">
 <div id="image-table">
     <table>
 	    <tr>
@@ -15,7 +15,7 @@
         </tr>
     </table>
 </div>
-
+</p>
 <p  align="center" width="100%">
 <img width="20%" src="https://github.com/haydendhampton/haydendhampton/blob/main/hannoverre_logo.jpg" style="display:inline-block;float:left;margin-left:auto;margin-right:auto">
 
