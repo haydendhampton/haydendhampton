@@ -3,7 +3,6 @@
 <p float="left">
   <img src="https://github.com/haydendhampton/haydendhampton/blob/main/ucf_logo.png" width="100">
   <img src="https://github.com/haydendhampton/haydendhampton/blob/main/21403.png" width="250", height="50">
-  <img src="https://github.com/haydendhampton/haydendhampton/blob/main/12569.png" width="250", height="50">
   <img src="https://github.com/haydendhampton/haydendhampton/blob/main/infotech_logo.png" width="200">
 </p>
 
@@ -12,6 +11,7 @@ I'm [Hayden Hampton](https://haydenhampton.com/), a recent PhD graduate in Big D
 For more updates, please visit my [personal website](https://haydenhampton.com/)
 
 <!--
+  <img src="https://github.com/haydendhampton/haydendhampton/blob/main/12569.png" width="250", height="50">
 <img src="https://github.com/haydendhampton/haydendhampton/blob/main/hannover_logo.jpg" width="175">
 height="100"
 **haydendhampton/haydendhampton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
