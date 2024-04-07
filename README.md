@@ -1,8 +1,8 @@
 ### Welcome!
 
 
-<p>
-    <table>
+<div>
+    <table style="border:0px solid white; width:100%>
 	    <tr>
     	    <td style="padding:10px">
         	    <img src="https://github.com/haydendhampton/haydendhampton/blob/main/hannoverre_logo.jpg" width="150"/>
@@ -15,8 +15,7 @@
             </td>
         </tr>
     </table>
-
-</p>
+<div>
 
 
 <p  align="center" width="100%">
