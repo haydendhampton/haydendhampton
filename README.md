@@ -1,13 +1,15 @@
 ### Welcome!
 
+
+
+
+<div id="image-table">
 <style>
 td, th {
    border: none!important;
 }
 </style>
-
-
-<div id="image-table">
+	
     <table>
 	    <tr>
     	    <td style="padding:10px">
