@@ -2,7 +2,9 @@
 
 <p float="center">
 <img src="https://github.com/haydendhampton/haydendhampton/blob/main/ucf_logo.png" width="100"/>
+&emsp;
 <img src="https://github.com/haydendhampton/haydendhampton/blob/main/infotech_logo.png" width="200"/> 
+&emsp;
 <img src="https://github.com/haydendhampton/haydendhampton/blob/main/hannover_logo.jpg" width="175"/>
 </p>
 
