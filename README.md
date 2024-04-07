@@ -1,9 +1,9 @@
 ### Welcome!
 
 <p align="center" width="100%">
-<img width="33%" src="https://github.com/haydendhampton/haydendhampton/blob/main/ucf_logo.png" />
+<img width="15%" src="https://github.com/haydendhampton/haydendhampton/blob/main/ucf_logo.png" />
 &emsp;
-<img width="33%" src="https://github.com/haydendhampton/haydendhampton/blob/main/infotech_logo.png" /> 
+<img width="51%" src="https://github.com/haydendhampton/haydendhampton/blob/main/infotech_logo.png" /> 
 &emsp;
 <img width="33%" src="https://github.com/haydendhampton/haydendhampton/blob/main/hannoverre_logo.jpg" height="150"/>
 </p>
