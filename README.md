@@ -1,7 +1,7 @@
 ### Welcome!
 
 <div align="center">
-    <table style="border:50px solid white;">
+    <table style="border:1px solid black;">
 	    <tr style="border: 0px;">
     	    <td>
 	    	<img src="https://github.com/haydendhampton/haydendhampton/blob/main/hannoverre_logo.jpg" width="175"/>
