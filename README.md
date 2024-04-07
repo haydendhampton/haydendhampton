@@ -2,15 +2,15 @@
 
 
 <div>
-    <table style="style="border:0px solid white">
-	    <tr style="border: 0px;">
-    	    <td style="border:0px; padding:10px">
+    <table style="border:0px solid white;">
+	    <tr>
+    	    <td style="padding:10px">
         	    <img src="https://github.com/haydendhampton/haydendhampton/blob/main/hannoverre_logo.jpg" width="150"/>
 	    </td>
-            <td style="border:0px; padding:10px">
+            <td style="padding:10px">
             	<img src="https://github.com/haydendhampton/haydendhampton/blob/main/infotech_logo.png" width="200"/>
 	    </td>
-            <td style="border:0px; padding:10px">
+            <td style="padding:10px">
             	<img src="https://github.com/haydendhampton/haydendhampton/blob/main/ucf_logo.png" width="100"/>
             </td>
         </tr>
