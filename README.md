@@ -7,7 +7,7 @@
   }
 </style>
 
-<div id="image-table">
+<div>
     <table>
 	    <tr>
     	    <td style="padding:10px">
