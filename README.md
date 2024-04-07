@@ -3,8 +3,7 @@
 
 
 
-<p center="left" width="100%">
-\vspace{-1.8cm}{=latex}
+<p  width="100%">
 <img width="20%" src="https://github.com/haydendhampton/haydendhampton/blob/main/hannoverre_logo.jpg" height="150"/>
 <img width="22.5%" src="https://github.com/haydendhampton/haydendhampton/blob/main/infotech_logo.png" /> 
 <img width="12.5%" src="https://github.com/haydendhampton/haydendhampton/blob/main/ucf_logo.png" />
