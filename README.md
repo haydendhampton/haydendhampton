@@ -9,7 +9,7 @@
     	<img src="https://github.com/haydendhampton/haydendhampton/blob/main/hannoverre_logo.jpg" width="150"/>
 	<img src="https://github.com/haydendhampton/haydendhampton/blob/main/infotech_logo.png" width="200"/>
 	<img src="https://github.com/haydendhampton/haydendhampton/blob/main/ucf_logo.png" width="100"/>
-	<td>
+	</td>
     </tr>
 </table>
 <div>
