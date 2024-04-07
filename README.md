@@ -1,8 +1,6 @@
 ### Welcome!
 
-
-
-<div>
+<p float="center">
 <table style="border:0px solid white;">
     <tr style="border: 0px;">
 	<td>
@@ -12,7 +10,7 @@
 	</td>
     </tr>
 </table>
-<div>
+</p>
 	
 <div>
     <table style="border:0px solid white;">
@@ -73,16 +71,4 @@ id="image-table"
 height="100"
 **haydendhampton/haydendhampton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-![alt text](https://github.com/haydendhampton/haydendhampton/blob/main/ucf_logo.png)
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
