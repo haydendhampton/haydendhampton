@@ -3,14 +3,14 @@
 
 <div>
     <table>
-	    <tr>
-    	    <td style="border:0px solid white">
+	    <tr style="style="border:0px solid white">
+    	    <td style="padding:10px">
         	    <img src="https://github.com/haydendhampton/haydendhampton/blob/main/hannoverre_logo.jpg" width="150"/>
-      	    </td>
-            <td style="border:0px solid white">
+	    </td style="style="border:0px solid white">
+            <td style="padding:10px">
             	<img src="https://github.com/haydendhampton/haydendhampton/blob/main/infotech_logo.png" width="200"/>
-            </td>
-            <td style="border:0px solid white">
+	    </td>
+            <td style="padding:10px">
             	<img src="https://github.com/haydendhampton/haydendhampton/blob/main/ucf_logo.png" width="100"/>
             </td>
         </tr>
