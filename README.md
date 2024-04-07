@@ -1,12 +1,13 @@
 ### Welcome!
 
-
+<p float="left">
 <br clear="left"/>
 <img src="https://github.com/haydendhampton/haydendhampton/blob/main/ucf_logo.png" align="left" width="100">
 <br clear="left"/>
 <img src="https://github.com/haydendhampton/haydendhampton/blob/main/infotech_logo.png" width="200">
 <br clear="left"/>
 <img src="https://github.com/haydendhampton/haydendhampton/blob/main/21403.png" align="left" width="150">
+</p>
 
 I'm [Hayden Hampton](https://haydenhampton.com/), a recent PhD graduate in Big Data Analytics from the University of Central Florida. My research focused on advancing anomaly detection, specifically integrating deep learning with one-class classification techniques. Currently, I'm transitioning my research focus by leveraging this expertise to practical applications in industry. For a comprehensive overview of my work, please refer to my [CV](https://haydenhampton.com/wp-content/uploads/2024/01/Hayden_Hampton_CV.pdf).
 
