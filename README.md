@@ -2,7 +2,7 @@
 
 
 
-<img src="https://github.com/haydendhampton/haydendhampton/blob/main/hannoverre_logo.jpg" style="display:block;float:none;margin-left:auto;margin-right:auto;width:60%">
+<img src="https://github.com/haydendhampton/haydendhampton/blob/main/hannoverre_logo.jpg" style="display:block;float:left;margin-left:auto;margin-right:auto;width:60%">
 
 
 <p  align="center" width="100%">
