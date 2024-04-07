@@ -1,7 +1,7 @@
 ### Welcome!
 
 <p align="left" width="75%">
-<img width="17.5%" src="https://github.com/haydendhampton/haydendhampton/blob/main/hannoverre_logo.jpg" height="125"/>
+<img width="17.5%" src="https://github.com/haydendhampton/haydendhampton/blob/main/hannoverre_logo.jpg" height="150"/>
 &emsp;
 <img width="25%" src="https://github.com/haydendhampton/haydendhampton/blob/main/infotech_logo.png" /> 
 &emsp;
