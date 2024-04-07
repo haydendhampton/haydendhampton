@@ -1,6 +1,6 @@
 ### Welcome!
 
-<p float="right">
+<div align="center">
     <table style="border:0px solid white;">
 	    <tr style="border: 0px;">
     	    <td>
@@ -14,7 +14,7 @@
             </td>
         </tr>
     </table>
-</p>
+</div>
 
 
 
