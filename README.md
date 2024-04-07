@@ -6,10 +6,10 @@
     	    <td>
 	    	<img src="https://github.com/haydendhampton/haydendhampton/blob/main/hannoverre_logo.jpg" width="150"/>
 	    </td>
-            <td style="padding:10px">
+            <td style="padding:0px">
             	<img src="https://github.com/haydendhampton/haydendhampton/blob/main/infotech_logo.png" width="200"/>
 	    </td>
-            <td style="padding:10px">
+            <td style="padding:0px">
             	<img src="https://github.com/haydendhampton/haydendhampton/blob/main/ucf_logo.png" width="100"/>
             </td>
         </tr>
