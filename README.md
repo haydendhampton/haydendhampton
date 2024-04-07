@@ -4,7 +4,7 @@
     <table style="border:0px solid white;">
 	    <tr style="border: 0px;">
     	    <td>
-	    	<img src="https://github.com/haydendhampton/haydendhampton/blob/main/hannoverre_logo.jpg" width="150"/>
+	    	<img src="https://github.com/haydendhampton/haydendhampton/blob/main/hannoverre_logo.jpg" width="175"/>
 	    </td>
             <td style="padding:0px">
             	<img src="https://github.com/haydendhampton/haydendhampton/blob/main/infotech_logo.png" width="200"/>
