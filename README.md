@@ -1,6 +1,10 @@
 ## Hayden D. Hampton
-PhD • **Applied ML in Commercial Real Estate** — anomaly detection, one-class classification, and probabilistic modeling.  
-[Website](https://haydenhampton.com) • [CV](https://haydenhampton.com/wp-content/uploads/2024/01/Hayden_Hampton_CV.pdf) • [LinkedIn](https://www.linkedin.com/in/haydendhampton/)
+
+PhD • **Applied ML in Commercial Real Estate** — anomaly detection & decision-support modeling.
+
+[![Website](https://img.shields.io/badge/Website-haydenhampton.com-0A66C2?style=flat&logo=google-chrome&logoColor=white)](https://haydenhampton.com)
+[![CV](https://img.shields.io/badge/CV-PDF-555555?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://haydenhampton.com/wp-content/uploads/2024/01/Hayden_Hampton_CV.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-haydendhampton-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haydendhampton/)
 
 <div align="center">
 <table style="max-width:900px; width:100%; border-collapse:collapse; border:none;" border="0" cellspacing="0" cellpadding="0">
