@@ -5,15 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://haydenhampton.com">
-    <img alt="Website" src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=google-chrome&logoColor=white">
-  </a>&nbsp;
-  <a href="https://haydenhampton.com/wp-content/uploads/2024/01/Hayden_Hampton_CV.pdf">
-    <img alt="CV (PDF)" src="https://img.shields.io/badge/CV%20(PDF)-374151?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white">
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/haydendhampton/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+  <a href="https://haydenhampton.com"><img alt="Website" src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+  <a href="https://haydenhampton.com/wp-content/uploads/2024/01/Hayden_Hampton_CV.pdf"><img alt="CV (PDF)" src="https://img.shields.io/badge/CV%20(PDF)-374151?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/haydendhampton/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 <div align="center">
