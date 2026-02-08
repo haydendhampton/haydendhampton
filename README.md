@@ -3,33 +3,31 @@ PhD • **Applied ML in Commercial Real Estate** — anomaly detection, one-clas
 [Website](https://haydenhampton.com) • [CV](https://haydenhampton.com/wp-content/uploads/2024/01/Hayden_Hampton_CV.pdf) • [LinkedIn](https://www.linkedin.com/in/haydendhampton/)
 
 <div align="center">
-<table style="max-width:900px; width:100%; border-collapse:collapse; border:none;">
+<table style="max-width:900px; width:100%; border-collapse:collapse; border:none;" border="0" cellspacing="0" cellpadding="0">
 <tr>
-
-<td style="padding:10px; width:25%; border:none;" align="center" valign="middle">
+<td style="padding:16px; width:25%; border:none;" align="center" valign="middle">
   <a href="https://www.hannover-re.com/en/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/haydendhampton/haydendhampton/main/hannoverre_logo.jpg" width="175" alt="Hannover Re" />
   </a>
 </td>
 
-<td style="padding:10px; width:25%; border:none;" align="center" valign="middle">
+<td style="padding:16px; width:25%; border:none;" align="center" valign="middle">
   <a href="https://www.mcclaveandassociates.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/haydendhampton/haydendhampton/main/infotech_logo.png" width="200" alt="InfoTech" />
   </a>
 </td>
 
-<td style="padding:10px; width:25%; border:none;" align="center" valign="middle">
+<td style="padding:16px; width:25%; border:none;" align="center" valign="middle">
   <a href="https://sciences.ucf.edu/statistics/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/haydendhampton/haydendhampton/main/ucf_logo.png" width="150" alt="UCF Statistics" />
   </a>
 </td>
 
-<td style="padding:10px; width:25%; border:none;" align="center" valign="middle">
+<td style="padding:16px; width:25%; border:none;" align="center" valign="middle">
   <a href="https://www.woolbright.net/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/haydendhampton/haydendhampton/main/woolbright_logo.png" width="200" alt="Woolbright Development" />
   </a>
 </td>
-
 </tr>
 </table>
 
