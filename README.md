@@ -1,7 +1,7 @@
 <h2 align="center">Hayden D. Hampton</h2>
 
 <p align="center">
-  PhD (Big Data Analytics) • <b>Applied ML in Commercial Real Estate</b> — building production-grade AI/ML systems and automation for real estate decision-making.
+  PhD (Big Data Analytics) • <b>Applied AI/ML in Commercial Real Estate</b> — building production-grade systems and automation for CRE decision-making.
 </p>
 
 <p align="center">
