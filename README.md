@@ -1,4 +1,6 @@
-### Welcome!
+## Hayden D. Hampton
+PhD • **Applied ML in Commercial Real Estate** — anomaly detection, one-class classification, and probabilistic modeling.  
+[Website](https://haydenhampton.com) • [CV](https://haydenhampton.com/wp-content/uploads/2024/01/Hayden_Hampton_CV.pdf) • [LinkedIn](https://www.linkedin.com/in/haydendhampton/)
 
 <div align="center">
 <table style="max-width:900px; width:100%; border-collapse:collapse; border:none;">
@@ -35,12 +37,3 @@
   <sub>Selected Professional &amp; Academic Affiliations</sub>
 </p>
 </div>
-
-I'm [Hayden Hampton](https://haydenhampton.com/), a recent PhD graduate in Big Data Analytics from the University of Central Florida. My research focused on anomaly detection, specifically integrating deep learning with one-class classification techniques. Currently, I'm transitioning my research focus by leveraging this expertise to practical applications in industry. For a comprehensive overview of my work, please refer to my [CV](https://haydenhampton.com/wp-content/uploads/2024/01/Hayden_Hampton_CV.pdf).
-
-For more updates, please visit my [personal website](https://haydenhampton.com/)
-
-
-
-
-
