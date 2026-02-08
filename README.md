@@ -4,15 +4,21 @@
     <table width="100%">
 	    <tr>
     	    <td style="padding:10px;width="25%"; ">
-	    	<img src="https://github.com/haydendhampton/haydendhampton/blob/main/hannoverre_logo.jpg" width="175"/>
-	    </td>
-            <td  style="padding:10px;width="25%";">
+	    	    <img src="https://github.com/haydendhampton/haydendhampton/blob/main/hannoverre_logo.jpg" width="175"/>
+	        </td>
+            
+			<td  style="padding:10px;width="25%";">
             	<img src="https://github.com/haydendhampton/haydendhampton/blob/main/infotech_logo.png" width="200"/>
-	    </td>
-            <td style="padding:10px;width="30%";">
+	        </td>
+            
+			<td style="padding:10px;width="30%";">
             	<img src="https://github.com/haydendhampton/haydendhampton/blob/main/ucf_logo.png" width="125"/>
             </td>
-        </tr>
+        
+		    <td style="padding:10px;width:25%;">
+               <img src="https://raw.githubusercontent.com/haydenhampton/haydenhampton/blob/main/woolbright logo stacked.png" width="200"/>
+            </td>
+		</tr>
     </table>
 </div>
 
