@@ -10,52 +10,36 @@
   <a href="https://www.linkedin.com/in/haydendhampton/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-<div align="center" style="--logo-scale: 0.80;">
-  <table style="max-width:900px; width:100%; border-collapse:collapse; border:none;" border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td style="padding:12px; width:25%; border:none;" align="center" valign="middle">
-        <a href="https://www.hannover-re.com/en/" target="_blank" rel="noopener noreferrer">
-          <img
-            src="https://raw.githubusercontent.com/haydendhampton/haydendhampton/main/hannoverre_logo.jpg"
-            alt="Hannover Re"
-            style="width: calc(175px * var(--logo-scale)); height:auto; display:block;"
-          />
-        </a>
-      </td>
+<div align="center">
+<table style="max-width:900px; width:100%; border-collapse:collapse; border:none;" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td style="padding:12px; width:25%; border:none;" align="center" valign="middle">
+<a href="https://www.hannover-re.com/en/" target="_blank" rel="noopener noreferrer">
+<img src="https://raw.githubusercontent.com/haydendhampton/haydendhampton/main/hannoverre_logo.jpg" width="140" alt="Hannover Re" style="height:auto; display:block;" />
+</a>
+</td>
 
-      <td style="padding:12px; width:25%; border:none;" align="center" valign="middle">
-        <a href="https://www.mcclaveandassociates.com/" target="_blank" rel="noopener noreferrer">
-          <img
-            src="https://raw.githubusercontent.com/haydendhampton/haydendhampton/main/infotech_logo.png"
-            alt="InfoTech"
-            style="width: calc(200px * var(--logo-scale)); height:auto; display:block;"
-          />
-        </a>
-      </td>
+<td style="padding:12px; width:25%; border:none;" align="center" valign="middle">
+<a href="https://www.mcclaveandassociates.com/" target="_blank" rel="noopener noreferrer">
+<img src="https://raw.githubusercontent.com/haydendhampton/haydendhampton/main/infotech_logo.png" width="160" alt="InfoTech" style="height:auto; display:block;" />
+</a>
+</td>
 
-      <td style="padding:12px; width:25%; border:none;" align="center" valign="middle">
-        <a href="https://sciences.ucf.edu/statistics/" target="_blank" rel="noopener noreferrer">
-          <img
-            src="https://raw.githubusercontent.com/haydendhampton/haydendhampton/main/ucf_logo.png"
-            alt="UCF Statistics"
-            style="width: calc(150px * var(--logo-scale)); height:auto; display:block;"
-          />
-        </a>
-      </td>
+<td style="padding:12px; width:25%; border:none;" align="center" valign="middle">
+<a href="https://sciences.ucf.edu/statistics/" target="_blank" rel="noopener noreferrer">
+<img src="https://raw.githubusercontent.com/haydendhampton/haydendhampton/main/ucf_logo.png" width="120" alt="UCF Statistics" style="height:auto; display:block;" />
+</a>
+</td>
 
-      <td style="padding:12px; width:25%; border:none;" align="center" valign="middle">
-        <a href="https://www.woolbright.net/" target="_blank" rel="noopener noreferrer">
-          <img
-            src="https://raw.githubusercontent.com/haydendhampton/haydendhampton/main/woolbright_logo.png"
-            alt="Woolbright Development"
-            style="width: calc(200px * var(--logo-scale)); height:auto; display:block;"
-          />
-        </a>
-      </td>
-    </tr>
-  </table>
+<td style="padding:12px; width:25%; border:none;" align="center" valign="middle">
+<a href="https://www.woolbright.net/" target="_blank" rel="noopener noreferrer">
+<img src="https://raw.githubusercontent.com/haydendhampton/haydendhampton/main/woolbright_logo.png" width="160" alt="Woolbright Development" style="height:auto; display:block;" />
+</a>
+</td>
+</tr>
+</table>
 
-  <p style="margin-top:6px; margin-bottom:0; color:#6a737d;">
-    <sub>Selected Professional &amp; Academic Affiliations</sub>
-  </p>
+<p style="margin-top:6px; margin-bottom:0; color:#6a737d;">
+<sub>Selected Professional &amp; Academic Affiliations</sub>
+</p>
 </div>
