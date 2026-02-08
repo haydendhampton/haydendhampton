@@ -1,3 +1,9 @@
+<h2 align="center">Hayden D. Hampton</h2>
+
+<p align="center">
+  PhD • <b>Applied ML in Commercial Real Estate</b> — building anomaly detection and decision-support systems for operators.
+</p>
+
 <p align="center">
   <a href="https://haydenhampton.com">
     <img alt="Website" src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=google-chrome&logoColor=white">
@@ -9,6 +15,7 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
+
 
 <div align="center">
 <table style="max-width:900px; width:100%; border-collapse:collapse; border:none;" border="0" cellspacing="0" cellpadding="0">
