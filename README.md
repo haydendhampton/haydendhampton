@@ -16,7 +16,7 @@
 </td>
 
 <td style="padding:10px; width:25%;">
-<img src="https://raw.githubusercontent.com/haydendhampton/haydendhampton/main/woolbright_logo_stacked.png" width="200" />
+<img src="https://raw.githubusercontent.com/haydendhampton/haydendhampton/main/woolbright_logo.png" width="200" />
 </td>
 </tr>
 </table>
