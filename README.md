@@ -12,7 +12,7 @@
 </td>
 
 <td style="padding:10px; width:25%;">
-<img src="https://raw.githubusercontent.com/haydendhampton/haydendhampton/main/ucf_logo.png" width="150" />
+<img src="https://raw.githubusercontent.com/haydendhampton/haydendhampton/main/ucf_logo.png" width="175" />
 </td>
 
 <td style="padding:10px; width:25%;">
